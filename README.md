@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12002011&assignment_repo_type=AssignmentRepo)
 # Task - Convert keys between cases
 
 Different programming languages use different kind of schemes to name things. For example Python uses `snake_case`, JavaScript uses `camelCase`. You might also come across `kebap-case` - sometimes also called `dash-case`. You can read more about naming conventions in programming the [matching Wikipedia article](https://en.wikipedia.org/wiki/Naming_convention_(programming)).
